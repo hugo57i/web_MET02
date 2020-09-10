@@ -1,0 +1,11 @@
+.elem-center {
+  width: 60%;
+  text-align: center;
+  margin: 0 auto;
+  padding-bottom: 10px;
+}
+#formulaire {
+  background-color: #d6d2d2;
+  border: #918c8c 2px solid;
+  border-radius: 10px;
+}
